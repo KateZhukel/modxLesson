@@ -4,27 +4,27 @@
   ),
   'aliasMap' => 
   array (
-    'index.html' => 1,
-    '404.html' => 2,
-    'sitemap.xml' => 3,
-    'robots.txt' => 4,
+    'glavnaya.html' => 1,
     'produkcziya.html' => 5,
     'uslugi.html' => 6,
     'otzyivyi.html' => 7,
     'kontaktyi.html' => 8,
+    '404.html' => 2,
+    'sitemap.xml' => 3,
+    'robots.txt' => 4,
   ),
   'resourceMap' => 
   array (
     0 => 
     array (
       0 => 1,
-      1 => 2,
-      2 => 3,
-      3 => 4,
-      4 => 5,
-      5 => 6,
-      6 => 7,
-      7 => 8,
+      1 => 5,
+      2 => 6,
+      3 => 7,
+      4 => 8,
+      5 => 2,
+      6 => 3,
+      7 => 4,
     ),
   ),
   'webLinkMap' => 

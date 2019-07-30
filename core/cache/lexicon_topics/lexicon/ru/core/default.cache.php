@@ -546,4 +546,6 @@
   'thursday' => 'Четверг',
   'friday' => 'Пятница',
   'saturday' => 'Суббота',
+  'setting_email' => 'Электронная почта',
+  'setting_phone' => 'Телефон',
 );
