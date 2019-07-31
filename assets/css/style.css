@@ -355,7 +355,6 @@ p {
     color: #fff;
 }
 .main__item {
-
     margin-right: 40px;
     /*display: flex;*/
     /*background-color: #4b3647;*/
@@ -474,6 +473,9 @@ p {
     width: 260px;
 }
 /*reviews*/
+.reviews.container h2 {
+    margin-top: 0;
+}
 .reviews-wrap {
     color: #fff;
 }
@@ -534,6 +536,9 @@ p {
     color: #fff;
     line-height: 25px;
     font-size: 14px;
+}
+.contacts__first h2 {
+    margin-top: 0;
 }
 .contacts p {
     margin-bottom: 20px;

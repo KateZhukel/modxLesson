@@ -197,6 +197,8 @@
   'pdotools_fenom_php' => '',
   'pdotools_fenom_save_on_errors' => '',
   'phone' => '+300 (30) 300 30 300',
+  'phone-mts' => ' +375 29 577-84-71',
+  'phone-velcom' => '+375 29 333-24-25',
   'phpthumbof.cache_path' => '',
   'phpthumbof.cache_url' => '',
   'phpthumbof.hash_thumbnail_names' => '',
@@ -282,6 +284,7 @@
   'site_status' => '1',
   'site_unavailable_message' => 'The site is currently unavailable',
   'site_unavailable_page' => '0',
+  'skype' => 'grilat-trade',
   'static_elements_automate_chunks' => '0',
   'static_elements_automate_plugins' => '0',
   'static_elements_automate_snippets' => '0',
@@ -379,4 +382,5 @@
   'which_editor' => 'TinyMCE',
   'which_element_editor' => 'Ace',
   'xhtml_urls' => '1',
+  'эл.почта-яндекс' => 'grilat-trade@yandex.by',
 );

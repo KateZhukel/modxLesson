@@ -2,52 +2,57 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="565b874d-2c59-408a-9350-8de5780c4907" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/js/fancybox.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/components/phpthumbof/cache/index.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/js.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/js.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/cache/context_settings/web/context.cache.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/cache/context_settings/web/context.cache.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/core/cache/includes/elements/modplugin/1.include.cache.php" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/core/cache/includes/elements/modplugin/2.include.cache.php" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/core/cache/includes/elements/modplugin/3.include.cache.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/cache/includes/elements/modplugin/6.include.cache.php" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/core/cache/lexicon_topics/lexicon/en/ace/default.cache.php" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/core/cache/lexicon_topics/lexicon/en/collections/default.cache.php" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/core/cache/lexicon_topics/lexicon/en/collections/selections.cache.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/cache/lexicon_topics/lexicon/en/core/source.cache.php" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/core/cache/lexicon_topics/lexicon/en/formit/default.cache.php" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/core/cache/lexicon_topics/lexicon/en/migx/default.cache.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/cache/lexicon_topics/lexicon/en/tinymce/default.cache.php" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/core/cache/lexicon_topics/lexicon/ru/ace/default.cache.php" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/core/cache/lexicon_topics/lexicon/ru/collections/default.cache.php" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/core/cache/lexicon_topics/lexicon/ru/collections/selections.cache.php" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/core/cache/lexicon_topics/lexicon/ru/core/action.cache.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/cache/lexicon_topics/lexicon/ru/core/category.cache.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/cache/lexicon_topics/lexicon/ru/core/chunk.cache.php" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/core/cache/lexicon_topics/lexicon/ru/core/dashboard.cache.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/cache/lexicon_topics/lexicon/ru/core/default.cache.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/cache/lexicon_topics/lexicon/ru/core/default.cache.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/cache/lexicon_topics/lexicon/ru/core/element.cache.php" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/core/cache/lexicon_topics/lexicon/ru/core/file.cache.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/cache/lexicon_topics/lexicon/ru/core/login.cache.php" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/core/cache/lexicon_topics/lexicon/ru/core/menu.cache.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/cache/lexicon_topics/lexicon/ru/core/propertyset.cache.php" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/core/cache/lexicon_topics/lexicon/ru/core/resource.cache.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/cache/lexicon_topics/lexicon/ru/core/system_events.cache.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/cache/lexicon_topics/lexicon/ru/core/template.cache.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/cache/lexicon_topics/lexicon/ru/core/source.cache.php" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/core/cache/lexicon_topics/lexicon/ru/core/topmenu.cache.php" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/core/cache/lexicon_topics/lexicon/ru/core/trash.cache.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/cache/lexicon_topics/lexicon/ru/core/tv.cache.php" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/core/cache/lexicon_topics/lexicon/ru/formit/default.cache.php" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/core/cache/lexicon_topics/lexicon/ru/migx/default.cache.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/cache/lexicon_topics/lexicon/ru/tinymce/default.cache.php" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/core/cache/logs/error.log" beforeDir="false" afterPath="$PROJECT_DIR$/core/cache/logs/error.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/core/cache/menu/menus/topnav/ru.cache.php" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/core/cache/menu/menus/usernav/ru.cache.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/cache/registry/state/ys/user-1/curFocus.msg.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/cache/registry/state/ys/user-1/curFocus.msg.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/cache/registry/state/ys/user-1/modx-leftbar-tabpanel.msg.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/cache/registry/state/ys/user-1/modx-leftbar-tabpanel.msg.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/cache/registry/mgr/clearcache/1564483660-000000.msg.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/cache/registry/mgr/clearcache/1564483660-000001.msg.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/cache/registry/mgr/clearcache/1564483660-000002.msg.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/cache/registry/mgr/clearcache/1564483660-000003.msg.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/cache/registry/mgr/clearcache/1564483660-000004.msg.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/cache/registry/mgr/clearcache/1564483660-000005.msg.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/cache/registry/mgr/clearcache/1564483660-000006.msg.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/cache/registry/mgr/clearcache/1564483660-000007.msg.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/cache/registry/state/ys/user-1/ext-gen908-tree.msg.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/cache/registry/state/ys/user-1/ext-gen908-tree.msg.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/core/cache/registry/state/ys/user-1/modx-resource-tree.msg.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/cache/registry/state/ys/user-1/modx-resource-tree.msg.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/core/cache/registry/state/ys/user-1/modx-tree-element.msg.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/cache/registry/state/ys/user-1/modx-tree-element.msg.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/cache/resource/web/resources/1.cache.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/cache/resource/web/resources/1.cache.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/cache/resource/web/resources/5.cache.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/cache/resource/web/resources/5.cache.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/cache/resource/web/resources/6.cache.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/cache/resource/web/resources/7.cache.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/cache/resource/web/resources/8.cache.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/cache/registry/state/ys/user-1/modx-tv-tabpanel-1.msg.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/cache/registry/state/ys/user-1/modx-tv-tabpanel-1.msg.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/cache/registry/state/ys/user-1/modx-tv-tabpanel-2.msg.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/cache/registry/state/ys/user-1/modx-tv-tabpanel-2.msg.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/core/cache/scripts/elements/modplugin/1.cache.php" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/core/cache/scripts/elements/modplugin/2.cache.php" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/core/cache/scripts/elements/modplugin/3.cache.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/cache/scripts/elements/modplugin/6.cache.php" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/core/cache/system_settings/config.cache.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/cache/system_settings/config.cache.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -57,12 +62,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assets/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="183" column="27" selection-start-line="183" selection-start-column="27" selection-end-line="183" selection-end-column="27" />
+            <state relative-caret-position="210">
+              <caret line="540" column="18" selection-start-line="540" selection-start-column="18" selection-end-line="540" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -70,11 +75,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/js/fancybox.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2604">
+            <state relative-caret-position="19380">
               <caret line="1155" column="11" selection-start-line="1155" selection-start-column="11" selection-end-line="1155" selection-end-column="11" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -83,7 +87,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/js/js.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
+            <state relative-caret-position="510">
               <caret line="30" column="22" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="22" />
             </state>
           </provider>
@@ -127,13 +131,34 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="modx.lesson" type="b2602c69:ProjectViewProjectNode" />
+              <item name="modx.lesson" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="modx.lesson" type="b2602c69:ProjectViewProjectNode" />
+              <item name="modx.lesson" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="modx.lesson" type="b2602c69:ProjectViewProjectNode" />
+              <item name="modx.lesson" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="D:/my-files/my-prj/bath_prj" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -160,18 +185,19 @@
       <option name="presentableId" value="Default" />
       <updated>1564411312609</updated>
       <workItem from="1564411313943" duration="1110000" />
-      <workItem from="1564469251464" duration="8205000" />
+      <workItem from="1564469251464" duration="8977000" />
+      <workItem from="1564580616320" duration="1015000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9315000" />
+    <option name="totallyTimeSpent" value="11102000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2553305" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -184,7 +210,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.3290461" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3290461" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.24008575" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -196,28 +222,27 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/assets/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="540" column="18" selection-start-line="540" selection-start-column="18" selection-end-line="540" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/assets/js/fancybox.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2604">
+        <state relative-caret-position="19380">
           <caret line="1155" column="11" selection-start-line="1155" selection-start-column="11" selection-end-line="1155" selection-end-column="11" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/js/js.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
+        <state relative-caret-position="510">
           <caret line="30" column="22" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="183" column="27" selection-start-line="183" selection-start-column="27" selection-end-line="183" selection-end-column="27" />
         </state>
       </provider>
     </entry>
